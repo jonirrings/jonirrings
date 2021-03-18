@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jonirrings&show_icons=true" alt="Jonir Rings' github stats" />
 
-<!--
-**jonirrings/jonirrings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm [Jonir Rings](https://jonirrings.com) 🎉
 
-Here are some ideas to get you started:
+- 👨 Chinese 🇨🇳
+- 💗 Programming
+- 🔨 Brew Router and Game Console
+- 🏸 Play Some Sports
+- 🎮 Play Some Game
+- 🌏 Open Source
+- 💻 JS, Rust, C, Embedded
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=jonirrings)](https://github.com/jonirrings/jonirrings)
